@@ -1,0 +1,5 @@
+2025-05-09 14:03:36,644 - custom_logger -DEBUG - This is a debug message
+2025-05-09 14:03:36,644 - custom_logger -INFO - This is an info message
+2025-05-09 14:03:36,644 - custom_logger -WARNING - This is a warning message
+2025-05-09 14:03:36,648 - custom_logger -ERROR - This is an error message
+2025-05-09 14:03:36,649 - custom_logger -CRITICAL - This is a critical message
